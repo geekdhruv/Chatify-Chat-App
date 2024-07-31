@@ -79,9 +79,9 @@ We welcome contributions! Please follow these guidelines:
 ### Contact
 For any questions or feedback, feel free to reach out:
 
-Email: vashisthadhruv61@gmail.com
-LinkedIn: Dhruv Vashistha
-GitHub: geekdhruv
+->Email: vashisthadhruv61@gmail.com
+->LinkedIn: Dhruv Vashistha
+->GitHub: geekdhruv
 
 
 
