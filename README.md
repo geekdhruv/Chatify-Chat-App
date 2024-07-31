@@ -39,4 +39,5 @@ git clone https://github.com/geekdhruv/Chatify-Chat-App.git
 cd Chatify-Chat-App
 
 ##Install Dependencies
-Ensure you have Node.js installed. Then, run:
+Ensure you have Node.js installed. Then, run:  npm install
+
