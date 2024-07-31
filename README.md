@@ -37,5 +37,5 @@ Follow these steps to set up the project locally:
 ```bash
 git clone https://github.com/geekdhruv/Chatify-Chat-App.git
 cd Chatify-Chat-App
-'''
+```
 
