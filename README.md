@@ -43,3 +43,8 @@ Ensure you have Node.js installed. Then, run:
 ```bash
 npm install
 ```
+
+### Set Up Firebase
+1. Go to the Firebase Console.
+2. Create a new project and configure Firebase Authentication and Firestore.
+3. Add your Firebase configuration to the .env file:
