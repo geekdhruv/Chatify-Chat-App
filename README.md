@@ -48,3 +48,43 @@ npm install
 1. Go to the Firebase Console.
 2. Create a new project and configure Firebase Authentication and Firestore.
 3. Add your Firebase configuration to the .env file:
+
+```bash
+REACT_APP_FIREBASE_API_KEY=your_api_key
+REACT_APP_FIREBASE_AUTH_DOMAIN=your_auth_domain
+REACT_APP_FIREBASE_PROJECT_ID=your_project_id
+REACT_APP_FIREBASE_STORAGE_BUCKET=your_storage_bucket
+REACT_APP_FIREBASE_MESSAGING_SENDER_ID=your_messaging_sender_id
+REACT_APP_FIREBASE_APP_ID=your_app_id
+```
+### Start the Development Server
+
+```bash
+npm run dev
+```
+Navigate to http://localhost:3000 to see the application in action.
+
+### Usage
+1. Login/Register: Use the authentication features to log in or register a new account.
+2. Chat: Start chatting with real-time updates. Use the emoji picker and image upload features to enhance your communication.
+### Contributing
+We welcome contributions! Please follow these guidelines:
+
+1. Fork the repository.
+2. Create a new branch for your changes.
+3. Make your modifications and test thoroughly.
+4. Submit a pull request describing your changes.
+   
+
+### Contact
+For any questions or feedback, feel free to reach out:
+
+Email: vashisthadhruv61@gmail.com
+LinkedIn: Dhruv Vashistha
+GitHub: geekdhruv
+
+
+
+
+
+
